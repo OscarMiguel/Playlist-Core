@@ -14,10 +14,11 @@ Thu 8 dec 2016, sunny-little cold.
 	orchestrator()
 	welcome(boolean firstTime)
 	requestData()
-	checkExistence(String path, String folder)
+	returnFiles(String path, String sufix)	Method to replace the deleted methods.
+	checkExistence(String path, String folder)	Method deleted.
 	editFileName()
 	createPlayList()
-	getSongName()
+	getSongName()	Method deleted.
 	addSong()
 
 
